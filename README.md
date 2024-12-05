@@ -1,11 +1,10 @@
-<!-- 居中字体标题 -->
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=313335&center=true&vCenter=true&random=true&width=435&lines=A+love+for+open+source" alt="Typing SVG" style="align:center"/></a> -->
-
+<!-- my talk -->
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=313335&center=true&vCenter=true&repeat=false&random=true&width=435&lines=A+love+for+open+source+" alt="Typing SVG" />
 </h1>
 
-<!-- Top Languages -->
+> "What we do in life echoes in eternity."
+
 <!-- Top Languages -->
 <div style="display: flex; justify-content: center;">
     <img alt="Sinvon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isinvon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866" height="211.5px"/>
