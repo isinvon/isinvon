@@ -7,8 +7,10 @@
 
 <!-- Top Languages -->
 <!-- Top Languages -->
-<img alt="Sinvon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isinvon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866" height="211.5px"/>
-<img alt="Sinvon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=isinvon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="211.5px"/>
+<div style="display: flex; justify-content: center;">
+    <img alt="Sinvon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isinvon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866" height="211.5px"/>
+    <img alt="Sinvon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=isinvon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=313335&title_color=ffffff&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="211.5px"/>
+</div>
 <!-- Profile Views -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isinvon&theme=vue" style="height:100%;"> -->
 
