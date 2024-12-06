@@ -1,8 +1,8 @@
-<!-- my talk -->
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=313335&center=true&vCenter=true&repeat=false&random=true&width=435&lines=A+love+for+open+source+" alt="Typing SVG" />
 </h1>
 
+<!-- my talk -->
 > "What we do in life echoes in eternity."
 
 <!-- Top Languages -->
