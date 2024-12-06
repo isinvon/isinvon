@@ -1,5 +1,3 @@
-import requests
-
 # 用户名
 USERNAME = "isinvon"
 
