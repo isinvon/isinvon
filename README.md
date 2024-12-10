@@ -3,7 +3,10 @@
 </h1>
 
 <!-- my talk -->
-> "What we do in life echoes in eternity."
+<!-- > "What we do in life echoes in eternity." -->
+<a href="https://github.com/isinvon/gold-foil-font-api">
+<img alt="Sinvon's Github Stats" src="/image/my talk.png"/>
+</a>
 
 <!-- Top Languages -->
 <div style="display: flex; justify-content: center;">
