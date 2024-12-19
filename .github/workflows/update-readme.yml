@@ -1,42 +1,42 @@
-name: Update README with Stats and Graphs
+# name: Update README with Stats and Graphs
 
-on:
-  schedule:
-    - cron: "0 3 * * *" # 每天 UTC 时间 3 点更新
-  workflow_dispatch: # 手动触发
+# on:
+#   schedule:
+#     - cron: "0 3 * * *" # 每天 UTC 时间 3 点更新
+#   workflow_dispatch: # 手动触发
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
 
-    steps:
-      # 检出仓库代码
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+#     steps:
+#       # 检出仓库代码
+#       - name: Checkout Repository
+#         uses: actions/checkout@v3
 
-      # 安装 Python 依赖
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.9"
+#       # 安装 Python 依赖
+#       - name: Setup Python
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: "3.9"
 
-      - name: Install Dependencies
-        run: |
-          python3 -m pip install --upgrade pip
-          pip install requests
+#       - name: Install Dependencies
+#         run: |
+#           python3 -m pip install --upgrade pip
+#           pip install requests
 
-      # 运行脚本更新 README.md
-      - name: Update README Content
-        run: |
-          python3 update_readme.py
+#       # 运行脚本更新 README.md
+#       - name: Update README Content
+#         run: |
+#           python3 update_readme.py
 
-      # 提交更新到仓库
-      - name: Commit and Push Changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "isinvon"  # 替换为你的 GitHub 用户名
-          git config --global user.email "2021469084@qq.com"  # 替换为你的邮箱
-          git add README.md
-          git commit -m "Auto-update README with latest stats and graphs"
-          git push
+#       # 提交更新到仓库
+#       - name: Commit and Push Changes
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         run: |
+#           git config --global user.name "isinvon"  # 替换为你的 GitHub 用户名
+#           git config --global user.email "2021469084@qq.com"  # 替换为你的邮箱
+#           git add README.md
+#           git commit -m "Auto-update README with latest stats and graphs"
+#           git push
