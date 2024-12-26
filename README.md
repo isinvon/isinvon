@@ -2,6 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=313335&center=true&vCenter=true&repeat=false&random=true&width=435&lines=A+love+for+open+source+" alt="Typing SVG" />
 </h1>
 
+
+> <p align="center">💬You're welcome to ask me anything here if you <a href="https://github.com/isinvon/isinvon">have</a> any questions.</p>
+
 <!-- my talk -->
 <!-- > "What we do in life echoes in eternity." -->
 <a href="https://github.com/isinvon/gold-foil-font-api">
