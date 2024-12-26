@@ -3,7 +3,7 @@
 </h1>
 
 
-> <p align="center">💬You're welcome to ask me anything here if you <a href="https://github.com/isinvon/isinvon">have</a> any questions.</p>
+> <p align="center">💬 You're welcome to ask me anything here if you <a href="https://github.com/isinvon/isinvon/issues">have</a> any questions.</p>
 
 <!-- my talk -->
 <!-- > "What we do in life echoes in eternity." -->
